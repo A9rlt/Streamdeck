@@ -143,7 +143,7 @@ Potential improvements include:
 
 ## Conclusion
 
-The original idea behind this project was to create a simple device that could perform shortcuts, such as capturing clips while streaming, similar to a commercial <Elgato Stream Deck>[https://www.elgato.com/uk/en/p/stream-deck-scissor-keys]. The intended functionality would depend on the streaming platform being used mentioned above.
+The original idea behind this project was to create a simple device that could perform shortcuts, such as capturing clips while streaming, similar to a commercial [Elgato Stream Deck](https://www.elgato.com/uk/en/p/stream-deck-scissor-keys). The intended functionality would depend on the streaming platform being used mentioned above.
 
 However, as a starting point, I decided to develop the project into a Windows based macro pad, allowing multiple OS functions and shortcuts to be done through individual physical buttons.
 
