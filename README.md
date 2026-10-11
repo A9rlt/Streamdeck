@@ -145,8 +145,8 @@ Potential improvements include:
 
 The original idea behind this project was to create a simple device that could perform shortcuts, such as capturing clips while streaming, similar to a commercial [Elgato Stream Deck](https://www.elgato.com/uk/en/p/stream-deck-scissor-keys). The intended functionality would depend on the streaming platform being used mentioned above.
 
-However, as a starting point, I decided to develop the project into a Windows based macro pad, allowing multiple OS functions and shortcuts to be done through individual physical buttons.
+However, as a starting point, I decided to develop the project into a Windows based macro pad, allowing multiple OS functions and shortcuts to be done through individual physical buttons
 
-By combining physical buttons, LED feedback, serial communication, and Python automation, this project demonstrates how an Arduino can be used to create an inexpensive and customisable alternative to commercial macro pads and Stream Deck devices.
+By combining physical buttons, LED feedback, serial communication, and Python automation, and help of the [callback.py](https://github.com/A9rlt/Streamdeck/blob/main/callback.py) to figure how Python would recall specific keys, this project demonstrates how an Arduino can be used to create an inexpensive and customisable alternative to commercial macro pads and Stream Deck devices.
 
 This project also provides a foundation for future improvements and upgrades, including integration with streaming software, additional programmable functions, and more advanced button configurations.
